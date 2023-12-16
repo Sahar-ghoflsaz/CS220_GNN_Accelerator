@@ -10,8 +10,8 @@ To use the GNN Accelerator, follow these steps:
    Run the provided Python script to generate `.mtx` files for the Cora, Citeseer and PubMed datasets.
 
 2. **UPMEM Implementation:**
-   a. In terminal 'Make'
-   b. ./bin/spmv -f cora.mtx (For Cora Dataset, similarly for other datasets)
+   /na. In terminal `Make`
+   /nb. `./bin/spmv -f cora.mtx` (For Cora Dataset, similarly for other datasets)
 
 4. **View Results:**
    Results will be displayed directly in the terminal.
